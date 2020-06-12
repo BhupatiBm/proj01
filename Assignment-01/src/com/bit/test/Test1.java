@@ -4,7 +4,12 @@ public class Test1 {
 	
 	void doRun(){
 
-		//feature 4 added
+		
+		
+	}
+	void doCopy(){
+
+		//feature 04 added
 		
 	}
 
